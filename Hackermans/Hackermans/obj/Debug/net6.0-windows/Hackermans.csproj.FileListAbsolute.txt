@@ -1,0 +1,17 @@
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\bin\Debug\net6.0-windows\Hackermans.exe
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\bin\Debug\net6.0-windows\Hackermans.deps.json
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\bin\Debug\net6.0-windows\Hackermans.runtimeconfig.json
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\bin\Debug\net6.0-windows\Hackermans.dll
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\bin\Debug\net6.0-windows\ref\Hackermans.dll
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\bin\Debug\net6.0-windows\Hackermans.pdb
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\obj\Debug\net6.0-windows\Hackermans.csproj.AssemblyReference.cache
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\obj\Debug\net6.0-windows\Hackermans.csproj.GenerateResource.cache
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\obj\Debug\net6.0-windows\Hackermans.GeneratedMSBuildEditorConfig.editorconfig
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\obj\Debug\net6.0-windows\Hackermans.AssemblyInfoInputs.cache
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\obj\Debug\net6.0-windows\Hackermans.AssemblyInfo.cs
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\obj\Debug\net6.0-windows\Hackermans.csproj.CoreCompileInputs.cache
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\obj\Debug\net6.0-windows\Hackermans.dll
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\obj\Debug\net6.0-windows\ref\Hackermans.dll
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\obj\Debug\net6.0-windows\Hackermans.pdb
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\obj\Debug\net6.0-windows\Hackermans.genruntimeconfig.cache
+F:\webdev\tutorials\notepad_cSharp\Hackermans\Hackermans\obj\Debug\net6.0-windows\Hackermans.Form1.resources
